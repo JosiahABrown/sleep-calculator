@@ -1,7 +1,7 @@
 # sleep-calculator
 CS50 final project
 
-![](https://youtu.be/D72GusFzTOc)
+https://youtu.be/D72GusFzTOc
 
 This flutter-based Android app calculates how long a user should sleep to feel rested. There are two main buttons on the home page that both prompt the user to input a time on a 12-hour am/pm clock. The first button will ask for a time the user wishes to go to bed. The other asks when the user wants to wake up. 
 
